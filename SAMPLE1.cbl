@@ -3,7 +3,7 @@ CBL TEST
        PROGRAM-ID. TESTPGM.
       *****************************************************************
       *                                                               *
-      *   This is Test program                                      *
+      *   This is the Test program                                    *
       *                                                               *
       *****************************************************************
        ENVIRONMENT DIVISION.
